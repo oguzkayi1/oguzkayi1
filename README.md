@@ -1,4 +1,8 @@
-## Hi there 👋
+ Hi, I'm Oguz!
+
+I'm a freshman at Bilkent University.
+
+I'm studying Computer Science and currently learning Java programming.
 
 <!--
 **oguzkayi1/oguzkayi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
